@@ -1,0 +1,9 @@
+../Core/Src/main.c:72:5:main	24	static
+../Core/Src/main.c:129:6:SystemClock_Config	88	static
+../Core/Src/main.c:175:13:MX_ADC1_Init	24	static
+../Core/Src/main.c:249:13:MX_CAN_Init	8	static
+../Core/Src/main.c:284:13:MX_DMA_Init	16	static
+../Core/Src/main.c:302:13:MX_GPIO_Init	32	static
+../Core/Src/main.c:327:10:ADC_Conversion	24	static
+../Core/Src/main.c:333:10:Thermocouple_Temp	24	static
+../Core/Src/main.c:345:6:Error_Handler	4	static,ignoring_inline_asm
